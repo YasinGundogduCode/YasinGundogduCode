@@ -8,7 +8,6 @@ Here are some of the projects I've been working on:
 
 - **[GeziRehberi project](https://github.com/YasinGundogduCode/RehberProjesi)**:I created a Türkiye travel guide with the mobile application I developed..
 - **[Dart-language Dart training](https://github.com/YasinGundogduCode/Dart-language)**:Sharing my progress while learning Dart.
-- **[HTML ]([https://github.com/YasinGundogduCode/project3](https://github.com/YasinGundogduCode/HTML))**: This is a piece of content where I learned how to upload projects to GitHub
   
 
 ## 🌱 Currently Learning
@@ -29,15 +28,16 @@ Feel free to ask me about:
 
 ## 📫 How to Reach Me
 
-- Email: [yasincoding@example.com](mailto:yasingundogdutr@outlook.com.tr)
+- Email: [yasingundogdutr@outlook.com.tr](mailto:yasingundogdutr@outlook.com.tr)
 - LinkedIn: [Yasin Gundogdu](https://www.linkedin.com/in/yasin-gündoğdu-201b6330a/)
 - Twitter: [@YasinCode](https://twitter.com/YasinCode)
 
-## ⚡ Fun Facts
-
-- I love solving puzzles and playing strategy games.
-- In my free time, I enjoy hiking and exploring nature.
-- I'm a coffee enthusiast and love trying out new coffee blends.
+## ⚡Fun Facts
+☕ I love debugging—it’s like solving a puzzle, but with more coffee.
+🎮 I enjoy coding challenges and hackathons; they keep my problem-solving skills sharp.
+💡 I often refactor my old code just for fun (and sometimes regret it).
+🚀 I get excited about optimizing algorithms, even if no one else cares.
+🛠️ My idea of a "weekend project" usually turns into an all-night coding session.
 
 ## 📈 GitHub Stats
 
