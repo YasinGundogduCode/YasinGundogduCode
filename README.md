@@ -34,9 +34,13 @@ Feel free to ask me about:
 
 ## ⚡Fun Facts
 ☕ I love debugging—it’s like solving a puzzle.
+
 🎮 I enjoy coding challenges and hackathons; they keep my problem-solving skills sharp.
+
 💡 I often refactor my old code just for fun (and sometimes regret it).
+
 🚀 I get excited about optimizing algorithms, even if no one else cares.
+
 🛠️ My idea of a "weekend project" usually turns into an all-night coding session.
 
 ## 📈 GitHub Stats
